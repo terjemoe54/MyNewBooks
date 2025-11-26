@@ -3,7 +3,7 @@
 //  MyNewBooks
 //
 //  Created by Terje Moe on 26/11/2025.
-//
+//SS
 // Denne bruker SwiftData
 
 
